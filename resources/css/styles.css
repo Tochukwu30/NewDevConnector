@@ -410,6 +410,10 @@ button {
   grid-area: exp;
 }
 
+/* .profile-experience {
+  flex: auto;
+} */
+
 .profile-edu {
   grid-area: edu;
 }
@@ -578,21 +582,18 @@ button {
 }
 
 .new--profile-conatiner{
-  /* background-color: #0077b5; */
   padding: 1rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 .firstBlock{
-  /* background-color: red; */
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex: 50%;
 }
 .secondBlock{
-  /* background-color: yellow; */
   flex: 50%;
   text-align: end;
   padding-right: 60px;
@@ -614,7 +615,6 @@ align-items: center;
 
 
 .new--details-block{
-  /* background-color: green; */
   margin: 20px;
   flex: 2;
 }
